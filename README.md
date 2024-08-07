@@ -5,3 +5,7 @@ some nginx configuration files
 # 2. reverse proxy
 # 3. cashing
 # 4. host multi sites
+# nginx conf blocks 
+## main --> 1. events, 2.stream, 3.http
+
+# http block --> 1. server 2. upstream
